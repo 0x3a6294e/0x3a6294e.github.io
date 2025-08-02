@@ -1,0 +1,33 @@
+# Hugo build directory
+/public/
+
+# Hugo cache directory
+/resources/_gen/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node modules (if using npm)
+node_modules/
+
+# Go binaries (if using Go)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Other files to ignore
+*.swp
+*.swo
