@@ -33,15 +33,17 @@ When you perform the "a and a" trick and monitor the network activity, you'll no
 ### Observations on the Data Transmission
 
 - Odd Behavior: One peculiar aspect is that the webhook sends data to the Discord channel even if no email or password is provided. This raises questions about the effectiveness of the scam.
+
 - Vibe Coded: I would describe this as vibe coded—it's potentially deadly for a victim. While it doesn't work well, it still manages to capture some data. The logic of the flow of execution makes no sense, as there are some safety measures in place, but they are not comprehensive.
 
 ### Logic and Execution Flow
 
-- JavaScript Structure: The JavaScript code is contained within a single HTML file, which is a common tactic in phishing sites. This structure can make it easier for attackers to obfuscate their code and hide malicious functions. Notably, the only fields that seem to work are the email and password inputs.
+- JavaScript Structure: The JavaScript code is contained within a single HTML file, which is a common tactic in phishing sites. This structure can make it easier for attackers to obfuscate their code and hide malicious functions(They didn't do this). Notably, the only fields that seem to work are the email and password inputs.
 
 ### Implications for Victims
 
 - Potential Risks: The fact that the webhook captures data even without valid credentials indicates that the attackers may be collecting information for other purposes, such as identifying potential victims or testing the effectiveness of their phishing scheme.
+
 - User Awareness: It's essential to inform readers about the risks associated with such phishing attempts and encourage them to be vigilant when encountering suspicious emails or websites.
 
 
