@@ -8,7 +8,7 @@ tags:
   - email finds
 ---
 
-So after posting my last post. I got another email from "JageX". This time it was about account migration, and it was being sent to a random Gmail. The email itself is from support[at]goamile[dot]com which is like trivago[.]com site based in Panjim-Goa(aka India).
+So after posting my last post. I got another email from "JageX". This time it was about account migration, and it was being sent to a random Gmail. The email itself is from support[at]goamiles[dot]com which is like trivago[.]com site based in Panjim-Goa(aka India).
 
 The link to the "signin" page first when to a linkly[.]link (I reported and got taken down) shorten url. That when takes us to a new url **This is a scamsite don't enter real info** no-limitsolutions[.]com. This one is interesting because it takes your ip, city, ISP, country, and user agent. Seen in screenshot:
 
